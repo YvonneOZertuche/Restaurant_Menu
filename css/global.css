@@ -1,8 +1,39 @@
-body{
-  /* background-color: rgb(239, 199, 21); */
-  background-color: rgba(3, 93, 3, 0.79);
+/* black - #000000  
+navy - #14213D
+gold - #FCA311  (accent)
+light gray - #E5E5E5 
+white = #FFFFFF */
+/* pale-silver -#C0B7B1 nickle - #7A7265 */
+/* z-index */
+
+/* background-colors */
+
+.bg-nickle{
+  background-color: #7A7265;
 }
-.imageLayer{
-  display: flex;
-  
+
+
+
+/* font colors */
+
+.bg-black{
+  color:black;
+}
+
+.z10 {
+  z-index: 10;
+}
+.z15 {
+  z-index: 15;
+}
+.z20 {
+  z-index: 20;
+
+}
+.z25 {
+  z-index: 25;
+}
+
+body-bg{
+  background-color: ;
 }
